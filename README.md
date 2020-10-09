@@ -9,3 +9,22 @@ Get inside the project folder inside your favorite terminal and run :-
 ```
 yarn start
 ```
+
+## EXAMPLE
+
+After running `yarn start` on the terminal. You could run following commands like
+```
+> Hello.
+> What's the weather like in kathmandu?
+> Bye
+```
+
+---
+**NOTE**
+
+The bot is as dumb as it gets.
+It is made by using `pattern matching`.
+Don't expect much.
+NO NLP shenanigans here.
+
+---
